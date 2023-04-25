@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bhavin2897
-- 👀 I’m interested in Data Analysing for machinery and automation
-- 🌱 I’m currently learning Scientific Automation as a Data Scientist 
-- 💞️ I’m looking to collaborate on Data Analysis and Automation projects
-- 📫 How to reach me bhavin2897@gmail.com
+- 👋 Hi, I’m @bhavin2897 (Bhavin Katabathuni)
+- :100: I'm a Python, CKAN, Full-Stack scientific software developer working at TIB (Technische Informationsbibliothek) Hannover 
+- 👀 I’m interested in CKAN Developement, Metadata Harvesting and XML-Schemas
+- 🌱 I’m currently responibsle for NFDI4Chem Search Service 
 
 <!---
 bhavin2897/bhavin2897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
